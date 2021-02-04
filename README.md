@@ -1,2 +1,4 @@
 # ShipsGame
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](gifs/0_choose.gif))
+![Alt Text](gifs/1_battle.gif))
+![Alt Text](gifs/2_defeat.gif))
